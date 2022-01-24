@@ -1,10 +1,10 @@
-# speqta-test-1-thilina
+# sample-parser-by-thilina
 
 ## Technologies
 ***
 A list of technologies used within the project:
 * Vanila PHP
-* composer as dependency manger and auto loader
+* composer as dependency manager and auto loader
 
 ## Run
 ***
