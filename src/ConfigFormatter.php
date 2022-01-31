@@ -147,7 +147,7 @@ Class ConfigFormatter {
             // Add the final part to the structure
             if (empty($rootArr[$childPart])) {
                 $rootArr[$childPart] = $val;
-            } elseif ($baseval && is_array($rootArr[$leafPart])) {
+            } elseif ($baseval && is_array($rootArr[$childPart])) {
                 $rootArr[$childPart]['__base_val'] = $val;
             }
         }
