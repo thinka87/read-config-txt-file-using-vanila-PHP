@@ -1,4 +1,4 @@
-# sample-parser-by-thilina
+# read config txt file using vanila PHP
 
 ## Technologies
 ***
